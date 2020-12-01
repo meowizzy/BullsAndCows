@@ -1,0 +1,18 @@
+# Project exclude paths
+/.gradle/
+/Bulls and Cows/task/build/
+/Bulls and Cows/task/out/
+/Bulls and Cows/task/out/production/classes/
+/Bulls and Cows/task/out/test/classes/
+/Problems/Calculator with four methods/out/
+/Problems/Calculator with four methods/out/production/classes/
+/Problems/Car (1)/out/
+/Problems/Car (1)/out/production/classes/
+/Problems/Decompose a math function/out/
+/Problems/Decompose a math function/out/production/classes/
+/Problems/Find the max of three numbers/out/
+/Problems/Find the max of three numbers/out/production/classes/
+/Problems/Preparing full name/out/
+/Problems/Preparing full name/out/production/classes/
+/Problems/The sign of a number/out/
+/Problems/The sign of a number/out/production/classes/
